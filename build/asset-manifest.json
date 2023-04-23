@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.15d43636.css",
-    "main.js": "/static/js/main.9056b238.js",
+    "main.js": "/static/js/main.ed804c80.js",
     "static/js/27.e11e9da7.chunk.js": "/static/js/27.e11e9da7.chunk.js",
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/sakhtbazar-ui-ux.jpeg": "/static/media/sakhtbazar-ui-ux.eed388e41c0cc145f9df.jpeg",
@@ -27,13 +27,13 @@
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/cancel.svg": "/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
-    "static/media/quote.svg": "/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
+    "static/media/cancel.svg": "/static/media/cancel.67603d1a018ec3b8222c4f711a75e433.svg",
+    "static/media/quote.svg": "/static/media/quote.8ebb62b7b03b2be36c302e54aed5ee84.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.15d43636.css",
-    "static/js/main.9056b238.js"
+    "static/js/main.ed804c80.js"
   ]
 }
