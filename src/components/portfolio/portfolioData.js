@@ -10,6 +10,7 @@ import aronfootbal_website from "../../assets/img/portfolio/aronfootbal-website.
 import yoova_ui_ux from "../../assets/img/portfolio/yoova-ui-ux.jpeg";
 import yoova_site from "../../assets/img/portfolio/yoova-site.jpeg";
 import banner from "../../assets/img/portfolio/banner.jpg";
+import banner2 from "../../assets/img/portfolio/gfrc.jpg";
 
 const PortfolioData = [
   {
@@ -93,7 +94,7 @@ const PortfolioData = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     type: "UI/UX Design",
     image: crm,
     tag: ["UI/UX"],
@@ -109,7 +110,7 @@ const PortfolioData = [
     ],
   },
   {
-    id: 5,
+    id: 7,
     type: "UI/UX Design",
     image: sakhtkaar_ui_ux,
     tag: ["UI/UX"],
@@ -125,7 +126,7 @@ const PortfolioData = [
     ],
   },
   {
-    id: 5,
+    id: 8,
     type: "UI/UX Design",
     image: yoova_ui_ux,
     tag: ["UI/UX"],
@@ -141,7 +142,7 @@ const PortfolioData = [
     ],
   },
   {
-    id: 5,
+    id: 9,
     type: "UI/UX Design",
     image: aroncharts_ui_ux,
     tag: ["UI/UX"],
@@ -157,7 +158,7 @@ const PortfolioData = [
     ],
   },
   {
-    id: 6,
+    id: 10,
     type: "Landing Page",
     image: aron_anniversary_website,
     tag: ["LARAVEL"],
@@ -173,7 +174,7 @@ const PortfolioData = [
     ],
   },
   {
-    id: 7,
+    id: 11,
     type: "Trading Platform",
     image: aroncharts_website,
     tag: ["Laravel", "REACT JS/NEXT JS"],
@@ -189,8 +190,8 @@ const PortfolioData = [
     ],
   },
   {
-    id: 8,
-    type: "Trading platform for football players",
+    id: 12,
+    type: "Trading platform",
     image: aronfootbal_website,
     tag: ["LARAVEL", "REACT JS/NEXT JS"],
     delayAnimation: "100",
@@ -205,9 +206,25 @@ const PortfolioData = [
     ],
   },
   {
-    id: 9,
+    id: 13,
     type: "GRAPHICS",
     image: banner,
+    tag: ["GRAPHICS"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Graphic Design",
+        client: "Sakhtbazar",
+        language: "Adobe Photoshop",
+        preview: "sakhtbazar.com",
+        link: "https://sakhtbazar.com",
+      },
+    ],
+  },
+  {
+    id: 14,
+    type: "GRAPHICS",
+    image: banner2,
     tag: ["GRAPHICS"],
     delayAnimation: "200",
     modalDetails: [
