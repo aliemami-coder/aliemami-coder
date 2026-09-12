@@ -113,20 +113,23 @@ Built custom WordPress and WooCommerce themes with PHP, localized and RTL-adapte
 
 I'm open to freelance projects and remote full-stack/frontend roles.
 
+<!-- Replace any # placeholders below with your real profile links -->
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliemami.coder@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-emami)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliemami.py)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AZ_Coder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliemami-coder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliemami_coder)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aliemami_coder)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AliEmami_Coder)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989145805045)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AliEmami_Coder)
+[![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aliemami_coder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://a-emami.ir)
 
 <br>
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Ali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliemami-coder&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-<sub>_Last updated: September 2026_</sub>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
