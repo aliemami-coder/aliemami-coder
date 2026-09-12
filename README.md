@@ -1,30 +1,132 @@
-# 💫 About Me:
-👋 Hi, I’m Ali Emami<br>👀 I’m a full-stack developer<br>😍 I’m very eager to learn new technologies<br>💞️ I love programing<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Ali Emami — Full-Stack Developer | Laravel · Next.js · React · WordPress
 
+**Building fast, scalable, SEO-optimized web products for 9+ years.**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliemami.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-emami) 
+Hi, I'm **Ali Emami**, a Full-Stack Developer with 9+ years of experience designing and building scalable web applications using **Laravel**, **Next.js**, **React.js**, and **WordPress**. I specialize in modular frontend architecture, performance optimization, technical SEO, and maintainable, production-ready software — collaborating remotely with international teams on enterprise and B2B products.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aliemami-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+On real production products, my work has driven **80% faster page loads**, **3x organic traffic growth**, and **25% more organic traffic** through frontend re-architecture, rendering optimization, and caching systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aliemami-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🔭 Currently building **Parsa System**, a web-based admin panel that helps Instagram-based businesses manage invoices and sales.
+📬 Open to **freelance projects** and **remote roles** in frontend / full-stack development.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aliemami-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📋 Quick Facts
 
----
-[![](https://visitcount.itsvg.in/api?id=aliemami-coder&icon=6&color=0)](https://visitcount.itsvg.in)
+| | |
+|---|---|
+| 🧑‍💻 **Name** | Ali Emami |
+| 💼 **Role** | Full-Stack Developer (frontend-focused) |
+| 🎯 **Specialization** | Laravel · Next.js · React.js · WordPress |
+| 📈 **Experience** | 9+ years |
+| 🌍 **Location** | Iran — remote, international teams |
+| 🎓 **Education** | B.Sc. Computer Engineering, Payame Noor University (2023) |
+| 📬 **Availability** | Open to freelance & remote work |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Teleram: AZ_Coder
-Linkedin: ali-emami
-Twitter: AliEmami_Coder
+<br>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**CMS**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Architecture & practices:** Modular Architecture · Design Systems · Event-Driven Architecture · SOLID Principles · Performance Optimization · Technical SEO · Responsive Design
+
+<br>
+
+## 💼 Experience
+
+**Frontend Developer** · Atolla — *Turkey (Remote)* · 2026
+Built a 73-page enterprise admin panel for managing wind and solar power plants; optimized React state management and removed unnecessary re-renders, improving page performance by ~30%.
+
+**Full-Stack Developer** · Harmony Advertising Agency — *Tehran (Remote)* · 2025 – 2026
+Shipped 25+ landing pages and gamified campaign experiences for brands including **Divar, SnapFood, Kaleh, Snowa, and Up**. Built interactive 3D experiences with Three.js and advanced animations with GSAP and Framer Motion. Delivered 3 custom WordPress storefront themes.
+
+**Full-Stack Developer** · Aron Groups — *United Kingdom (Remote)* · 2022 – 2024
+Rebuilt the company's main website in Next.js with a focus on performance and SEO, designed a custom Radix UI-based design system, and drove a 25% increase in organic traffic. Also built a player-trading platform (Aron Football) and a prop-trading platform with Laravel and Next.js.
+
+**Full-Stack Developer** · Sakht Bazar — *Tabriz, Iran* · 2022 – 2024
+Led the frontend team through a migration from Laravel Blade to Next.js, built 50+ reusable components, and implemented a frontend caching layer that improved page load speed by ~80%. SEO and SSR work tripled organic search traffic. Also designed a custom CRM with React and Laravel.
+
+**Full-Stack Developer (Intern)** · Sabin Server — *Tabriz, Iran* · 2018 – 2019
+Built custom WordPress and WooCommerce themes with PHP, localized and RTL-adapted themes for the Iranian market, and learned the fundamentals of technical SEO and site performance.
+
+<br>
+
+## 📌 Featured Projects
+
+- **[Divar — "Catch the Signs" Campaign](https://divar.ir/landings/norisk)** — An animated, GSAP-powered landing page for a scam-awareness campaign on Divar, Iran's largest classifieds platform.
+- **[Aron Groups](https://arongroups.co)** — A 70+ page corporate website built with Next.js and Sass, integrated with a WordPress backend.
+- **[Naturelean](https://natureleanfood.com)** — A brand website built with Next.js and Tailwind CSS on a WordPress backend.
+- **[Sakht Bazar](https://sakhtbazar.com)** — A multilingual B2B marketplace connecting manufacturers and contractors, built with Next.js and Laravel with a focus on SEO and accessibility.
+- **[Sakht Bazar CRM](https://crm.sakhtbazar.com)** — A custom CRM for managing sales and support workflows, built with React and Laravel.
+
+<br>
+
+## 📈 Impact by the Numbers
+
+- 🚀 **80%** faster page loads after a frontend caching overhaul
+- 📊 **3x** organic traffic growth from Next.js SSR + technical SEO
+- 📈 **25%** organic traffic increase from a full site rebuild
+- ⚙️ **30%** performance gain from React re-render optimization
+- 🧩 **50+** reusable components shipped for a single platform
+- 🌐 **70+** pages built across enterprise & B2B platforms
+
+<br>
+
+## 🎓 Education
+
+**B.Sc. in Computer Engineering** — Payame Noor University (Graduated 2023)
+
+<br>
+
+## 📫 Let's Connect
+
+I'm open to freelance projects and remote full-stack/frontend roles.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliemami.coder@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-emami)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliemami.py)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AZ_Coder)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AliEmami_Coder)
+
+<br>
+
+## 📊 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Ali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliemami-coder&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+<sub>_Last updated: September 2026_</sub>
