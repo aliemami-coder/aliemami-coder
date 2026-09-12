@@ -130,6 +130,9 @@ I'm open to freelance projects and remote full-stack/frontend roles.
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Ali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliemami-coder&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliemami-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+<br>
+
